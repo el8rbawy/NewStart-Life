@@ -28,6 +28,11 @@
 <br>
 
 ## More
+- [Discord.js](https://github.com/discordjs/discord.js/) (To Use Discord API)
 - [JWT](https://github.com/auth0/node-jsonwebtoken) (Securely Transmitting Information)
 - [Axios](https://github.com/axios/axios) (JS library for HTTP requests)
 - JSON (Data interchange format)
+- [Joi](https://github.com/sideway/joi) (Data Validator)
+- [Styled Components](https://github.com/styled-components/styled-components) (CSS-in-JS)
+- [Fontawesome](https://github.com/FortAwesome/react-fontawesome) (Icon Library)
+- [Tajawal](https://fonts.google.com/specimen/Tajawal?subset=arabic) (Text Font)
